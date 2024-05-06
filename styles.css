@@ -41,3 +41,12 @@ input[type="button"] {
     border-radius: 10px;
     border: 1px solid dimgray;
 }
+
+#restart {
+    width: 50px;
+    height: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: 1px solid dimgray;
+    border-radius: 7px;
+}
