@@ -47,4 +47,3 @@ Make it look nice! This is a great project to practice your CSS skills. At least
 Add a “backspace” button, so the user can undo if they click the wrong number.
 Add keyboard support!
 
-![calculator ](https://github.com/user-attachments/assets/f7cdd4ff-b48e-44d8-a081-6edffd3781a0)
