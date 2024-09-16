@@ -54,4 +54,4 @@ Add keyboard support!
 
 -
 
--- PROJECT FROM THEODIN PROJECT --
+-- PROJECT FROM THE ODIN PROJECT --
