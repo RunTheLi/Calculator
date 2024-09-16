@@ -48,8 +48,10 @@ Make it look nice! This is a great project to practice your CSS skills. At least
 Add a “backspace” button, so the user can undo if they click the wrong number.
 Add keyboard support!
 
+-
 
+-
 
+-
 
-
-__ PROJECT FROM THEODIN PROJECT __
+-- PROJECT FROM THEODIN PROJECT --
